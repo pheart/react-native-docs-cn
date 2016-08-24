@@ -1,5 +1,12 @@
 [
 	{
+		"name": "宝点理财",
+		"desc": "金融p2p理财平台",
+		"ios": "https://itunes.apple.com/cn/app/id1017177170?mt=8",
+		"android": "http://www.bao.cn/download/android/baodian.apk",
+		"icon": "http://pp.myapp.com/ma_icon/0/icon_11267626_1470564006/96"
+	},
+	{
 		"name": "百贷纵横",
 		"desc": "移动在线信贷服务平台",
 		"ios": "https://itunes.apple.com/us/app/bai-dai-zong-heng/id865391997?l=zh&ls=1&mt=8",
